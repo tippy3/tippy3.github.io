@@ -7,7 +7,7 @@
 # install dependencies
 bundle install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:4000
 bundle exec jekyll serve --watch
 
 ```
