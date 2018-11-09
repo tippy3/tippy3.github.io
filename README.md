@@ -1,4 +1,4 @@
-# tippy3の自己紹介です
+# tippyの自己紹介です
 [tippy3.github.io](https://tippy3.github.io)でご覧いただけます
 
 
