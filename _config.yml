@@ -5,3 +5,4 @@ title: tippy
 author: "twitter.com/tippy_jp"
 email: tippy3@users.noreply.github.com
 description: "フロントエンドが得意なフルスタックエンジニア"
+exclude: ["README.md"]
