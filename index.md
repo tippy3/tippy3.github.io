@@ -3,45 +3,35 @@ title: tippy
 description: フロントエンドが得意なフルスタックエンジニア
 ---
 
-## Welcome to GitHub Pages
+慶應義塾大学で情報工学を学んでいるtippyと申します。Web系の技術が得意です。このサイトは開発実績の紹介です。（最終更新2018/12/10 執筆中）
 
-You can use the [editor on GitHub](https://github.com/tippy3/tippy3.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## **教育機関で使われるタイピング練習ソフト SFC-Typing**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+公開中 → [https://itclass.sfc.keio.ac.jp/typingtest/about](https://itclass.sfc.keio.ac.jp/typingtest/about)
 
-### Markdown
+※企業様ごとにログインIDを発行させていただきます。お気軽にご連絡ください
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 概要
 
-```markdown
-Syntax highlighted code block
+タイピング試験システム 兼 練習ゲーム です。慶應義塾大学SFCと慶應義塾横浜初等部（小学校）にて採用されています。Ruby on Rails, jQueryを用いて開発しました。開発責任者として、フロントエンドを中心に、サーバーサイドやUI設計まで携わりました。年間2000人以上の大学生・小学生に使われています。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tippy3/tippy3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 開発の経緯
+それまで大学で使われていたタイピングソフトは旧式で、「GUIに対応していない」「練習モードがない」等の問題がありました。私が教授に改善案を提案したところ、大学からお金をいただく業務委託という形で開発させていただけることになりました。私が責任者として３人のチームをまとめ、GitHubを用いて集団開発しました。大学に納入後に高評価をいただき、附属小学校にも採用していただけました。
 
 
-### 入力のテスト
+## **大学オープンキャンパスのスタッフ向け業務システム**
 
-hogehoge
+### 概要
+大学オープンキャンパスの学生スタッフが使うWebアプリです。各種端末のブラウザで動作し、以下の２つの機能を持ちます。
+
+**★ 受験相談コーナーの「受付・お呼び出し」**
+
+飲食店入り口にあるデジタル発券機のようなものです。お客様がタブレットで相談内容（例：一般入試についてorAO入試について）を入力すると、呼び出し番号を発行します。相談内容に対応できるスタッフの準備が整い次第、外付けディスプレイに呼び出し番号を表示します。区分別のおおよその待ち時間や、時間を潰せる他のイベントの紹介もディスプレイに表示しました。
+
+**★ キャンパスツアーの「運営管理」**
+
+ツアーは2コースあり、約15名ほどのツアーガイドで運営しています。この機能では、各集合場所の混雑度や、誰がいつどこでツアーをしているかを全スタッフ間で共有できます。また、記録されたデータを翌年度以降の混雑予想に役立てることができます。
+
+### 開発の経緯
+私はオープンキャンパス運営団体の代表を務めていました。事前にイベント当日のスタッフ不足が予想されたため、受付などを電子化し、スタッフを効率的に配置することを考え、日常のスキマ時間に趣味として個人開発しました。
+

@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 
 encoding: utf-8
 title: tippy
-author: "twitter.com/tippy_jp"
+author: "tippy"
 email: tippy3@users.noreply.github.com
 description: "フロントエンドが得意なフルスタックエンジニア"
 exclude: ["README.md"]
