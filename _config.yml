@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
-
 encoding: utf-8
 title: tippy
 author: "tippy"
 email: tippy3@users.noreply.github.com
-description: "フロントエンドが得意なフルスタックエンジニア"
+description: "Web系フルスタックエンジニア（自称）"
 exclude: ["README.md"]
