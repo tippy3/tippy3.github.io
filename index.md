@@ -3,13 +3,12 @@ title: tippy
 description: Web系フルスタックエンジニア（自称）
 ---
 
-慶應義塾大学で情報工学を学んでいるtippyと申します。Web系の技術が得意です。
-
+慶應義塾大学で情報工学を学んでいるtippyと申します。このページは開発実績の紹介です。
 
 
 ## **タイピング練習ソフト SFC-Typing**
 
-公開中 → [https://itclass.sfc.keio.ac.jp/typingtest/about](https://itclass.sfc.keio.ac.jp/typingtest/about)
+【公開中】[https://itclass.sfc.keio.ac.jp/typingtest/about](https://itclass.sfc.keio.ac.jp/typingtest/about)
 
 ### 導入実績
 
@@ -18,15 +17,12 @@ description: Web系フルスタックエンジニア（自称）
 
 ### 概要
 
-タイピング試験システム 兼 練習ゲーム です。Ruby on RailsとjQueryを使用しています。開発責任者として、フロントエンドを中心に、サーバーサイドやUI設計まで携わりました。年間2000人以上の大学生・小学生に使われています。
-
-### 開発の経緯
-それまで大学で使われていたタイピングソフトは旧式で、「GUIに対応していない」「練習モードがない」等の問題がありました。私が教授に改善案を提案したところ、大学からお金をいただく業務委託という形で開発させていただけることになりました。私が責任者として３人のチームをまとめ、GitHubを用いて集団開発しました。大学に納入後に高評価をいただき、附属小学校にも採用していただけました。
+タイピング試験システム 兼 練習ゲーム です。Ruby on RailsとjQueryを使用しています。フロントエンドを中心に、サーバーサイドやUI設計まで携わりました。年間2000人以上の大学生・小学生に使われています。
 
 ---
 ## **URL短縮サービス tippy.jp**
 
-公開中 → [http://tippy.jp/about](http://tippy.jp/about)
+【公開中】[http://tippy.jp/about](http://tippy.jp/about)
 
 ### 概要
 
@@ -35,7 +31,7 @@ description: Web系フルスタックエンジニア（自称）
 ---
 ## **大学オープンキャンパスのスタッフ向け業務システム**
 
-非公開
+【非公開】
 
 ### 概要
 大学オープンキャンパスの学生スタッフが使うWebアプリです。各種端末のブラウザで動作し、以下の２つの機能を持ちます。
