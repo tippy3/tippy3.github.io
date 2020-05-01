@@ -8,9 +8,9 @@
 ## Build Setup 
 ``` bash
 # install dependencies
+$ bundle config set path 'vendor/bundle'
 $ bundle install
 
 # serve with hot reload at localhost:4000
 $ bundle exec jekyll serve --watch
-
 ```
