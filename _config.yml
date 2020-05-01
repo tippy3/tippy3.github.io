@@ -1,7 +1,12 @@
 theme: jekyll-theme-cayman
 encoding: utf-8
 title: tippy
-author: "tippy"
+author: tippy
 email: tippy3@users.noreply.github.com
-description: "Web系フルスタックエンジニア（自称）"
-exclude: ["README.md"]
+description: "新米SRE"
+exclude:
+  - README.md
+  - index_old.md
+  - vendor
+  - Gemfile
+  - Gemfile.lock
